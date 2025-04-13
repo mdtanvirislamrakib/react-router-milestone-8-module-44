@@ -52,7 +52,7 @@ const Navbar = () => {
 
                 }
             </ul>
-            <button>Sign In</button>
+            <button className='btn'>Sign In</button>
         </nav>
     );
 };

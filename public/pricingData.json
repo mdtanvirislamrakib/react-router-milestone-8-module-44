@@ -13,6 +13,7 @@
     },
     {
       "id": 2,
+      "popular" : true,
       "name": "Standard Plan",
       "price": "৳2500",
       "duration": "Monthly",
