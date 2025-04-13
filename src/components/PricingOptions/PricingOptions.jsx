@@ -4,7 +4,6 @@ import DaisyPricingCard from '../DaisyPricingCard/DaisyPricingCard';
 
 const PricingOptions = ({pricingPrimise}) => {
     const pricingData = use(pricingPrimise);
-    console.log(pricingData);
 
     return (
         <div>
